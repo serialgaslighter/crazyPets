@@ -1,0 +1,1 @@
+import { addfabioCrazyPets } from ".fabioCrazyPets";
