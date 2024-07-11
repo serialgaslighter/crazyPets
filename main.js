@@ -1,0 +1,1 @@
+import { addSezoCrazyPet } from "./sezo's>crazyPet";
