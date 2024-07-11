@@ -1,4 +1,4 @@
-import { addSezoCrazyPet } from "./sezo's>crazyPet";
+import { addSezoCrazyPet } from "./sezo'sCrazyPet.js";
 import { addfabioCrazyPets } from ".fabioCrazyPets";
 import { addJapCrazyPet } from "./japCrazyPets.js";
 import { addThomasCrazyPet } from "./thomas-CrazyPet";
