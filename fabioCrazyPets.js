@@ -7,10 +7,10 @@ const user = {
     nahrung: "Drachenfleisch"
 }
 
-export function addNewPetArray(user){
+export function addfabioCrazyPets(user){
     let CrazyPetArray = [];
     CrazyPetArray.push(user);
     return CrazyPetArray;
 }
 
-console.log(addNewPetArray(user));
+console.log(addfabioCrazyPets(user));
