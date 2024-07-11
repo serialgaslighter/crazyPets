@@ -7,7 +7,7 @@ const sezoCrazyPet = {
     nahrung: "Hundefutter"
 };
 
-console.log(sezoCrazyPet);
+// console.log(sezoCrazyPet);
 
 export function addSezoCrazyPet(petArray) {
     petArray.push(sezoCrazyPet);
