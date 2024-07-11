@@ -1,1 +1,1 @@
-import { addJapCrazyPet } from "./japCrazyPets";
+import { addJapCrazyPet } from "./japCrazyPets.js";
